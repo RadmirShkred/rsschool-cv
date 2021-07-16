@@ -125,11 +125,11 @@ Virtual DOM, Hooks
 Planning, development. Implementation of logic, working with  
 jQuery plugins, native JS.  
 Works in which I participated:  
-https://happylook‑sev.ru  
-http://zakupki82.ru  
-http://автовыкуп92.рф  
-https://стяжка‑пола‑крым.рф  
-https://волстрой92.рф  
+[](https://happylook‑sev.ru)  
+[](http://zakupki82.ru)  
+[](http://автовыкуп92.рф)  
+[](https://стяжка‑пола‑крым.рф)  
+[](https://волстрой92.рф)  
 
 #### Dec 2018 - May 2019
 #### frontend-developer, freelancer, Moscow
@@ -137,7 +137,7 @@ Self‑development of turnkey websites on the Webflow service.
 Translation of websites to the WordPress platform, creation,  
 maintenance and support of admin panels, customer consultation.  
 4 sites were created. Of the current works:  
-http://йогамассаж.рф  
+[](http://йогамассаж.рф)  
 
 ### Education and qualifications
 #### Sep 2008 - Jun 2011
