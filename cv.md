@@ -138,3 +138,58 @@ Translation of websites to the WordPress platform, creation,
 maintenance and support of admin panels, customer consultation.
 4 sites were created. Of the current works:
 http://йогамассаж.рф
+
+### Education and qualifications
+#### Sep 2008 - Jun 2011
+#### МВА
+Moscow Business School, Moscow
+
+#### Sep 1995 - May 1999
+#### Bachelor's degree, Faculty of Theology and History
+Moscow Theological Seminary, Sergiev Posad
+
+### Additional education
+
+2021
+**SoftServe**
+React Online Marathon
+
+2020
+**Udemy**
+Vladilen Minin, Frontend, JavaScript
+
+2020
+**Udemy**
+Yuri Bura, Frontend, JavaScript
+
+2020
+**JavaMentor**
+JavaMentor, Frontend, JavaScript
+
+2018
+**Training with a mentor**
+Dmitry Trepachev (Minsk, Belarus), FRONTEND‑DEVELOPER (HTML, CSS, JavaScript, JQuery,
+React)
+
+2018
+**Educational Center LOFTSCHOOL (Moscow)**
+Web‑developer (HTML3, CSS5, JavaScript)
+
+2018
+**CYBERBIONIC‑SYSTEMATICS (ITVDN)**
+CYBERBIONIC‑SYSTEMATICS (ITVDN, FRONTEND‑DEVELOPER (HTML, CSS, JavaScript,
+JQuery, ReactJS)
+
+2016
+**"Specialist", Training Center at the Bauman University of Technology (Moscow)**
+Basic JavaScript, level 1‑3
+
+2016
+**Ilya Kantor's School (Moscow)**
+FRONTEND‑DEVELOPER (JavaScript, DOM, Interfaces)
+
+2007‑2020
+**English**
+Moscow Institute of Linguistics, Intermediate
+
+English Language School ITSTRESSCOACH, Upper‑Intermediate
