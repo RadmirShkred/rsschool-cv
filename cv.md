@@ -193,3 +193,6 @@ FRONTEND‑DEVELOPER (JavaScript, DOM, Interfaces)
 Moscow Institute of Linguistics, Intermediate
 
 English Language School ITSTRESSCOACH, Upper‑Intermediate
+
+### English level
+Intermediate
