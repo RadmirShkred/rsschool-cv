@@ -196,3 +196,7 @@ English Language School ITSTRESSCOACH, Upper‑Intermediate
 
 ### English level
 Intermediate
+
+![](img/certificateJS.jpg)
+
+![](img/english_sertification.jpg)
