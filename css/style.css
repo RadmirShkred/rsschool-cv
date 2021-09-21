@@ -7,7 +7,6 @@ body {
     margin: 0;
     font-family: "Roboto", sans-serif;
     background: #e7e7e7;
-    width: fit-content;
 }
 
 @media (min-width: 1200px) {
@@ -564,7 +563,6 @@ body {
     }
 
     .article_content {
-        width: 670px;
         padding-right: 40px;
     }
 
@@ -1049,6 +1047,7 @@ body {
 }
 
 @media (min-width: 320px) and (max-width: 767px) {
+
     main {
         width: 100%;
         margin: 0 auto;
@@ -1248,7 +1247,6 @@ body {
     }
 
     .article_content {
-        width: 670px;
         padding-right: 40px;
         margin-top: 10px;
     }
