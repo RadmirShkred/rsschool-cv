@@ -7,6 +7,7 @@ body {
     margin: 0;
     font-family: "Roboto", sans-serif;
     background: #e7e7e7;
+    width: fit-content;
 }
 
 @media (min-width: 1200px) {
