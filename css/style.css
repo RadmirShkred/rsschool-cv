@@ -215,12 +215,11 @@ body {
     }
 
     .article_content {
-        width: 670px;
         padding-right: 40px;
+        width: 65%;
     }
 
     .article_content-text {
-        width: 28vw;
         margin-top: 20px;
     }
 
@@ -564,10 +563,10 @@ body {
 
     .article_content {
         padding-right: 40px;
+        width: 65%;
     }
 
     .article_content-text {
-        width: 28vw;
         margin-top: 20px;
     }
 
@@ -907,12 +906,11 @@ body {
     }
 
     .article_content {
-        width: 670px;
         padding-right: 40px;
+        width: 65%;
     }
 
     .article_content-text {
-        width: 50vw;
         margin-top: 20px;
     }
 
@@ -1252,7 +1250,6 @@ body {
     }
 
     .article_content-text {
-        width: 50vw;
         margin-top: 20px;
     }
 
